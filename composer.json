@@ -11,6 +11,7 @@
     ],
     "require": {},
     "require-dev": {
+        "php": "^7.4",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
